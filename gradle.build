@@ -10,5 +10,6 @@ repositories {
 }
 
 dependencies {
+	compile 'commons-code:commons-codec:1.8'
 	testImplementation 'junit:junit:4.+'
 }
